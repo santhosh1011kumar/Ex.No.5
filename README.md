@@ -430,6 +430,3 @@ However, AI-generated responses should always be verified through technical anal
 5. Python Documentation: [https://docs.python.org/3/](https://docs.python.org/3/?utm_source=chatgpt.com)
 6. NASA Earthdata: [https://www.earthdata.nasa.gov/](https://www.earthdata.nasa.gov/?utm_source=chatgpt.com)
 
-**Submission note:** The evaluation scores, sample pollutant values and response summaries above are demonstration material. For a proper experiment submission, run all six prompts in ChatGPT, save the actual responses, and update the scores based on your own evaluation.
-
-This entire document can be saved as a single `README.md` file in GitHub. No separate Python code or ZIP file is required for this documentation-based submission.
